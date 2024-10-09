@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio! This project serves as an interactiv
 
 ## Live Demo
 
-You can view the live version of my portfolio here: [hhttps://jam1esp0rtf01i0.netlify.app/](https://jam1esp0rtf01i0.netlify.app/)
+You can view the live version (Styling in Progress) of my portfolio here: [hhttps://jam1esp0rtf01i0.netlify.app/](https://jam1esp0rtf01i0.netlify.app/)
 
 ## Features
 
@@ -25,14 +25,3 @@ You can view the live version of my portfolio here: [hhttps://jam1esp0rtf01i0.ne
 ### Deployment
 - 🌐 [Netlify](https://www.netlify.com/) - Hosting service for static websites
 
-## Contact
-
-If you'd like to reach out to me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or [email me](mailto:your-email@example.com).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Inspired by various developer portfolios and ReactJS design resources.
