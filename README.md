@@ -1,8 +1,38 @@
-# React + Vite
+# Jamie Lai - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio! This project serves as an interactive platform to showcase my skills, projects, and experience. It is built using modern web technologies and highlights my capabilities in software engineering, web development, and machine learning.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view the live version of my portfolio here: [https://your-portfolio.netlify.app](https://your-portfolio.netlify.app)
+
+## Features
+
+- **About Me**: Learn more about who I am and my journey in tech.
+- **Projects**: Browse through the projects I have worked on, each with descriptions, skills used, and links to repositories.
+- **Skills**: A summary of my key technical skills in languages, frameworks, and tools.
+- **Resume**: Download my latest resume.
+- **Responsive Design**: Fully responsive design that works on mobile, tablet, and desktop.
+
+## Technologies Used
+
+### Frontend
+- ⚛️ [ReactJS](https://reactjs.org/) - JavaScript library for building user interfaces
+- 🖥️ [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - Markup language for creating the structure of web pages
+- 🎨 [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Stylesheet language used to style the website
+- 🔗 [React Icons](https://react-icons.github.io/react-icons/) - Icon library for adding vector icons
+
+### Deployment
+- 🌐 [Netlify](https://www.netlify.com/) - Hosting service for static websites
+
+## Contact
+
+If you'd like to reach out to me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or [email me](mailto:your-email@example.com).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- Inspired by various developer portfolios and ReactJS design resources.
