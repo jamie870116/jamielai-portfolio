@@ -1,0 +1,46 @@
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.intro-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    padding: 20px;
+}
+
+.intro-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.intro-text h1 {
+    margin: 0;
+    font-size: 3em;
+    margin-bottom: 0.2em;
+    letter-spacing: 2px;
+}
+
+.small-text {
+    font-size: 1.5em;
+    margin-top: 0.625em;
+}
+
+
+.intro-photo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro-photo {
+    width: 280px;
+    height: auto;
+    border-radius: 50%;
+}
