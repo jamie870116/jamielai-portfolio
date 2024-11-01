@@ -2,11 +2,11 @@ import React, { useState, useRef, useEffect } from 'react';
 import '../css/Chatbot.css';
 import OpenAI from "openai";
 import SystemPrompt from './SystemPrompt';
-import { MessageCircle, X } from 'lucide-react'; // Import icons
+import { MessageCircle, X } from 'lucide-react';
 
 const openai = new OpenAI({
     apiKey: import.meta.env.VITE_OPENAI_API_KEY,
-    dangerouslyAllowBrowser: true
+    // dangerouslyAllowBrowser: true
 });
 
 const Chatbot = () => {
