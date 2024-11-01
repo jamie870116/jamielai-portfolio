@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio! This project serves as an interactiv
 
 ## Live Demo
 
-It's currently under construction, but you can view the live version (Styling in Progress) of my portfolio here: [https://jam1esp0rtf01i0.netlify.app/](https://jam1esp0rtf01i0.netlify.app/). Note that some features might not be working as the site is still in development.
+It's currently under construction, but you can view the live version (Styling in Progress) of my portfolio here: [https://th1sjam1ela1.netlify.app/](https://th1sjam1ela1.netlify.app/). Note that some features might not be working as the site is still in development.
 
 
 ## Features
