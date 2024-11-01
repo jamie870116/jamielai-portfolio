@@ -42,8 +42,6 @@ const projects = [
         skills: [<FaPhp />, <FaLaravel />, <SiMysql />, <FaJsSquare />, <FaVuejs />, <SiNginx />]
     },
 
-
-
 ];
 
 

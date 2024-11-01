@@ -1,0 +1,95 @@
+{
+    "personalInfo": {
+        "name": {
+            "full": "Chieh-Ying Lai",
+            "nickname": "Jamie"
+        },
+        "contact": {
+            "email": "chiehying.lai.w@gmail.com",
+            "linkedin": "https://www.linkedin.com/in/chiehyinglai/",
+            "github": "https://github.com/jamie870116"
+        },
+        "education": {
+            "university": "University of California, Santa Barbara",
+            "major": "Computer Science",
+            "level": "Graduate Student",
+            "redirectCommand": "EDUCATION"
+        },
+        "languages": [
+            "English",
+            "Chinese",
+            "Japanese"
+        ]
+    },
+    "technicalSkills": {
+        "programmingLanguages": [
+            "Python",
+            "JavaScript",
+            "C++",
+            "Swift",
+            "PHP"
+        ],
+        "softwareDevelopment": [
+            "Python Django",
+            "Flask",
+            "ReactJS",
+            "SQL",
+            "MySQL",
+            "HTML5",
+            "CSS",
+            "RESTful API",
+            "Git",
+            "GitHub",
+            "Jira"
+        ],
+        "cloudAndDevOps": [
+            "Amazon web service(AWS)",
+            "Docker",
+            "Git",
+            "CI/CD pipelines",
+            "Linux"
+        ],
+        "machineLearning": [
+            "Pytorch",
+            "Keras",
+            "NumPy",
+            "Scikit-learn",
+            "OpenCV",
+            "OpenAI",
+            "Computer Vision",
+            "Convolutional Neural Networks",
+            "Generative AI",
+            "Natural Language Processing",
+            "Large Language Models"
+        ]
+    },
+    "softSkills": [
+        "Quick learner",
+        "Team player",
+        "Problem solver",
+        "Hard-working",
+        "Dedicated"
+    ],
+    "interests": {
+        "gaming": {
+            "activity": "Video games",
+            "favorites": [
+                "Pokemon",
+                "Monster Hunter"
+            ]
+        },
+        "entertainment": [
+            "Anime",
+            "Music (J-pop and anime songs)",
+            "Traveling"
+        ]
+    },
+    "navigationCommands": {
+        "projects": "PROJECTS",
+        "resume": "RESUME",
+        "education": "EDUCATION"
+    },
+    "chatbotRules": {
+        "unknownQuery": "For questions beyond my knowledge or not related to Jamie, please contact her directly or I'll inform you that I cannot answer that question."
+    }
+}

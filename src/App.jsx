@@ -1,10 +1,11 @@
-import React from 'react';
+// import React from 'react';
 import Header from './components/Header';
 import Intro from './components/Intro';
 import Resume from './components/Resume';
 import Education from './components/Education';
 import Projects from './components/Projects';
 import Footer from './components/Footer';
+import Chatbot from './components/Chatbot';
 import './index.css';
 
 function App() {
@@ -12,9 +13,16 @@ function App() {
     <div className="App">
       <Header />
       <Intro />
-      <Resume />
-      <Education />
-      <Projects />
+      <Chatbot />
+      <div id="resume">
+        <Resume />
+      </div>
+      <div id="education">
+        <Education />
+      </div>
+      <div id="projects">
+        <Projects />
+      </div>
       {/* <Contact /> */}
       <Footer />
     </div>
